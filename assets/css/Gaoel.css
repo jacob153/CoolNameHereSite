@@ -1,0 +1,16 @@
+@font-face {
+	font-family: 'Gaoel';
+	src: url(../../assets/fonts/Gaoel-be96159184bb40aeca4f91332cbd2603.eot) format('embedded-opentype');
+	font-weight: normal;
+	font-style: normal;
+	font-display: auto;
+}
+
+@font-face {
+	font-family: 'Gaoel';
+	src: url(../../assets/fonts/Gaoel-78f2597b8d57b735f1de03bcd4001e73.ttf) format('truetype'),
+	url(../../assets/fonts/Gaoel-01093ad7336ed86dcd104d9372ef255d.svg) format('svg');
+	font-weight: normal;
+	font-style: normal;
+	font-display: auto;
+}
