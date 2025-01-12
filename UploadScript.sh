@@ -1,3 +1,4 @@
+#!/bin/bash
 git add .
 CommitMessage=$(date)
 git commit -m "$CommitMessage"
